@@ -1,0 +1,17 @@
+GIT CLONE
+- CLONES THE EXISTING REPOSITORY
+
+git checkout -b "branch_name"
+- this creates a new branch
+
+git add "file_name"
+-this adds files of a branch to the local remote
+
+git commit -m "file_name"
+-this commits or saves the file to the local repository
+
+git push origin BRANCH_NAME
+-this adds the branch to the remote branch
+
+git push origin BRANCH_NAME:master
+-moves it to the master
